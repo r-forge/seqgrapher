@@ -1,0 +1,8 @@
+export(gmlView)
+export(SeqGrapheR)
+import(Biostrings)
+import(cairoDevice)
+import(gWidgets)
+import(gWidgetsRGtk2)
+import(igraph)
+import(rggobi)
